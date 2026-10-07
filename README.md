@@ -1,5 +1,5 @@
 
-# California House Price Prediction
+# California House Price Prediction Model
 
 ## Problem Statement
 The California Housing dataset contains information about housing across California. The goal of this project is to build a machine learning model that predicts median house values.
