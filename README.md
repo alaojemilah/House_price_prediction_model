@@ -51,5 +51,5 @@ The *Pipeline* achieved the highest accuracy of *62.47%*, a significant improvem
 - Scikit-learn
 
 ## Author
-Jemilah Alao | Data & Business Intelligence Analyst
-[LinkedIn](https://www.linkedin.com/in/jemilah-alao)
+Jemilah Alao | Data Analyst
+[LinkedIn](https://www.linkedin.com/in/jemilah-alao-8a684528a)
